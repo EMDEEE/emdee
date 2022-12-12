@@ -16,6 +16,7 @@ body {
   background-size: 400% 400%;
   background-attachment: fixed;
   text-align: center;
+  overflow:hidden;
   z-index: -1;
 }
 @media (min-width: 1137px) {
